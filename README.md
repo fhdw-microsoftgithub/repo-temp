@@ -1,2 +1,3 @@
 # repo-temp
-A temporary repository 
+This is (only) a temporary repository for demo purposes. 
+
